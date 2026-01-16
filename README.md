@@ -1,3 +1,1 @@
 Hello
-Hello from remote repo
-Hello from local repository
