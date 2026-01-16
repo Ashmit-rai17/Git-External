@@ -1,1 +1,1 @@
-BLABLA LALAL
+Hello from remote repository
